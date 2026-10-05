@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "home": "Ulil Albab — Elektronik & Proyek",
+    "amp": "NyaaHibiV2 Hybrid SE — Penguat Headphone DIY",
+    "microamp": "MicroHibi AMP — Single-Ended Micro Discrete Amplifier",
+    "furuhibi": "FuruHibi — Modern Design, Analog Heritage."
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "projects": "Proyek",
+    "skills": "Keahlian",
+    "experience": "Pengalaman",
+    "contact": "Kontak",
+    "language": "Bahasa",
+    "languageToggle": "Ganti bahasa",
+    "theme": "Ganti tema"
+  },
+  "common": {
+    "close": "Tutup"
+  },
+  "hero": {
+    "eyebrow": "Ulil Albab — Hobi Elektronik",
+    "title": "Saya membuat penguat headphone, homeserver, dan keyboard kustom.",
+    "body": "Belajar elektronik lewat praktik langsung — dari penguat headphone analog dan discrete hingga IoT berbasis ESP32 serta infrastruktur rumah yang di-hosting sendiri.",
+    "ctaPrimary": "Lihat proyek",
+    "ctaSecondary": "Hubungi saya"
+  },
+  "about": {
+    "eyebrow": "Tentang",
+    "title": "Hai, saya Ulil Albab",
+    "intro": "Pemula dengan antusiasme sungguhan pada elektronik, baik <span class=\"text-foreground/90\">analog</span> maupun <span class=\"text-foreground/90\">digital</span>. Saya juga senang mempelajari <span class=\"text-foreground/90\">komputer</span>, <span class=\"text-foreground/90\">jaringan</span>, dan belakangan ini jadi penggemar <span class=\"text-foreground/90\">tabung vakum</span>.",
+    "interestsTitle": "Minat",
+    "interests": [
+      "Mendengarkan musik",
+      "Menonton anime",
+      "Mengutak-atik elektronik dan tabung vakum",
+      "Belajar komputer & jaringan"
+    ],
+    "focusTitle": "Bidang fokus",
+    "tags": [
+      "Elektronik Analog",
+      "Elektronik Digital",
+      "Komputer",
+      "Jaringan",
+      "Tabung Vakum"
+    ]
+  },
+  "projects": {
+    "eyebrow": "Proyek",
+    "title": "Karya pilihan",
+    "intro": "Tiga bidang yang selalu membuat saya kembali — elektronik audio, infrastruktur rumah, dan perangkat masukan.",
+    "seeMore": "Lihat proyek lainnya",
+    "items": [
+      {
+        "id": "amps",
+        "index": "01",
+        "title": "Penguat Headphone",
+        "description": "Serangkaian build penguat headphone — dari desain analog dan hybrid hingga op-amp discrete sepenuhnya. Fokus pada transparansi audio dan belajar lewat iterasi.",
+        "tags": [
+          "Analog",
+          "Op-Amp Discrete",
+          "Tabung"
+        ]
+      },
+      {
+        "id": "servers",
+        "index": "02",
+        "title": "Homeserver & IoT",
+        "description": "Ekosistem rumah yang di-hosting sendiri: IoT terpusat, penyimpanan NAS lokal, dan layanan on-prem — kendali penuh, tanpa ketergantungan cloud.",
+        "tags": [
+          "ESP32",
+          "ESP8266",
+          "Self-hosted",
+          "NAS"
+        ],
+        "points": [
+          "IoT rumah terpusat di ESP32 & ESP8266",
+          "NAS lokal untuk backup dan media",
+          "Layanan self-hosted (web, cloud, media)"
+        ]
+      },
+      {
+        "id": "keyboards",
+        "index": "03",
+        "title": "Keyboard Mekanik Kustom",
+        "description": "Keyboard kustom dengan wiring manual dan macropad nirkabel — memadukan elektronik dengan eksperimen firmware.",
+        "tags": [
+          "Handwire",
+          "VIA",
+          "ESP32 + OLED"
+        ],
+        "points": [
+          "Papan dengan wiring manual dan layout kustom",
+          "Dukungan VIA untuk konfigurasi keymap yang mudah",
+          "Macropad nirkabel berbasis ESP32 dengan layar OLED"
+        ]
+      },
+      {
+        "id": "furuhibi",
+        "index": "04",
+        "title": "FuruHibi R2R DAC",
+        "description": "DAC R2R berbasis ESP32-S3 beserta software pendukungnya — companion app Windows & Android, DSP berbasis browser, dan cloud presets dalam satu ekosistem audio.",
+        "tags": [
+          "ESP32-S3",
+          "R2R DAC",
+          "DSP",
+          "Windows / Android"
+        ],
+        "points": [
+          "Resistor-ladder DAC dengan input Bluetooth dan USB UAC",
+          "DSP PEQ, loudness, dan surround yang dikontrol dari browser",
+          "Companion app Windows & Android dengan sinkronisasi preset ke cloud"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "eyebrow": "Keahlian",
+    "title": "Apa yang saya kerjakan",
+    "intro": "Perpaduan elektronik praktik langsung, komputer, dan hobi yang apa adanya.",
+    "items": [
+      {
+        "id": "coding",
+        "label": "Koding",
+        "desc": "Skrip, web, dan proyek Python/Arduino."
+      },
+      {
+        "id": "electronics",
+        "label": "Elektronik",
+        "desc": "Analog & digital, PCB, tabung vakum, dan rangkaian yang menantang."
+      },
+      {
+        "id": "pc",
+        "label": "PC & Komputer",
+        "desc": "Pengaturan OS, optimasi, dan eksperimen perangkat lunak."
+      },
+      {
+        "id": "networking",
+        "label": "Jaringan",
+        "desc": "Pengkabelan & switching — bagian serunya saja, tanpa trauma MikroTik."
+      },
+      {
+        "id": "repair",
+        "label": "Servis Elektronik",
+        "desc": "Memperbaiki TV, radio, monitor, PC, dan laptop."
+      },
+      {
+        "id": "rest",
+        "label": "Istirahat & Mengisi Ulang",
+        "desc": "Hobi wajib. Tidur itu fitur."
+      },
+      {
+        "id": "scrolling",
+        "label": "Scrolling",
+        "desc": "Scrolling media sosial tanpa henti — kita semua melakukannya."
+      }
+    ]
+  },
+  "experience": {
+    "eyebrow": "Pengalaman",
+    "title": "Rekam jejak saya",
+    "items": [
+      {
+        "period": "2017 — Sekarang",
+        "title": "Servis Elektronik",
+        "desc": "Perbaikan TV, radio, monitor, PC, laptop, dan lainnya secara freelance."
+      },
+      {
+        "period": "2023 — Sekarang",
+        "title": "Belajar Mandiri",
+        "desc": "Mendalami penguat headphone, homeserver, dan keyboard kustom."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Kontak",
+    "title": "Mari terhubung",
+    "intro": "Terbuka untuk diskusi proyek, kolaborasi, atau sekadar ngobrol soal penguat dan elektronik."
+  },
+  "footer": {
+    "tagline": "Dibuat dengan Vue"
+  }
+}

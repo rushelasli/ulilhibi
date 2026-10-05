@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "home": "Ulil Albab — Electronics & Projects",
+    "amp": "NyaaHibiV2 Hybrid SE — DIY Headphone Amplifier",
+    "microamp": "MicroHibi AMP — Single-Ended Micro Discrete Amplifier",
+    "furuhibi": "FuruHibi — Modern Design, Analog Heritage."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "experience": "Experience",
+    "contact": "Contact",
+    "language": "Language",
+    "languageToggle": "Switch language",
+    "theme": "Toggle theme"
+  },
+  "common": {
+    "close": "Close"
+  },
+  "hero": {
+    "eyebrow": "Ulil Albab — Electronics Hobbyist",
+    "title": "I build headphone amps, homeservers, and custom keyboards.",
+    "body": "Learning electronics by building — from analog and discrete headphone amplifiers to ESP32-based IoT and self-hosted home infrastructure.",
+    "ctaPrimary": "View projects",
+    "ctaSecondary": "Get in touch"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Hi, I'm Ulil Albab",
+    "intro": "A beginner with real enthusiasm for electronics — both <span class=\"text-foreground/90\">analog</span> and <span class=\"text-foreground/90\">digital</span>. I also enjoy learning about <span class=\"text-foreground/90\">computers</span>, <span class=\"text-foreground/90\">networking</span>, and lately I've become a fan of <span class=\"text-foreground/90\">vacuum tubes</span>.",
+    "interestsTitle": "Interests",
+    "interests": [
+      "Listening to music",
+      "Watching anime",
+      "Tinkering with electronics and vacuum tubes",
+      "Learning computers & networking"
+    ],
+    "focusTitle": "Focus areas",
+    "tags": [
+      "Analog Electronics",
+      "Digital Electronics",
+      "Computers",
+      "Networking",
+      "Vacuum Tubes"
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Selected work",
+    "intro": "Three areas I keep coming back to — audio electronics, home infrastructure, and input devices.",
+    "seeMore": "See more projects",
+    "items": [
+      {
+        "id": "amps",
+        "index": "01",
+        "title": "Headphone Amplifiers",
+        "description": "A series of headphone amplifier builds — from analog and hybrid designs to a fully discrete op-amp. Focused on audio transparency and learning through iteration.",
+        "tags": [
+          "Analog",
+          "Discrete Op-Amp",
+          "Tube"
+        ]
+      },
+      {
+        "id": "servers",
+        "index": "02",
+        "title": "Homeserver & IoT",
+        "description": "A self-hosted home ecosystem: centralized IoT, local NAS storage, and on-prem services — full control, no cloud dependency.",
+        "tags": [
+          "ESP32",
+          "ESP8266",
+          "Self-hosted",
+          "NAS"
+        ],
+        "points": [
+          "Centralized home IoT on ESP32 & ESP8266",
+          "Local NAS for backup and media",
+          "Self-hosted services (web, cloud, media)"
+        ]
+      },
+      {
+        "id": "keyboards",
+        "index": "03",
+        "title": "Custom Mechanical Keyboards",
+        "description": "Hand-wired custom keyboards and wireless macropads — combining electronics with firmware experiments.",
+        "tags": [
+          "Handwire",
+          "VIA",
+          "ESP32 + OLED"
+        ],
+        "points": [
+          "Hand-wired boards with custom layouts",
+          "VIA support for easy keymap configuration",
+          "Wireless macropad on ESP32 with OLED display"
+        ]
+      },
+      {
+        "id": "furuhibi",
+        "index": "04",
+        "title": "FuruHibi R2R DAC",
+        "description": "An ESP32-S3 R2R DAC with its supporting software — a Windows & Android companion app, browser-based DSP, and cloud presets in one audio ecosystem.",
+        "tags": [
+          "ESP32-S3",
+          "R2R DAC",
+          "DSP",
+          "Windows / Android"
+        ],
+        "points": [
+          "Resistor-ladder DAC with Bluetooth and USB UAC inputs",
+          "PEQ, loudness, and surround DSP controlled from the browser",
+          "Windows & Android companion app with cloud preset sync"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "What I do",
+    "intro": "A mix of hands-on electronics, computers, and honest hobbies.",
+    "items": [
+      {
+        "id": "coding",
+        "label": "Coding",
+        "desc": "Scripts, web, and Python/Arduino projects."
+      },
+      {
+        "id": "electronics",
+        "label": "Electronics",
+        "desc": "Analog & digital, PCBs, vacuum tubes, challenging circuits."
+      },
+      {
+        "id": "pc",
+        "label": "PC & Computers",
+        "desc": "OS setup, optimization, software experiments."
+      },
+      {
+        "id": "networking",
+        "label": "Networking",
+        "desc": "Cabling & switching — the fun parts, no MikroTik trauma."
+      },
+      {
+        "id": "repair",
+        "label": "Electronics Repair",
+        "desc": "Fixing TVs, radios, monitors, PCs, and laptops."
+      },
+      {
+        "id": "rest",
+        "label": "Rest & Recharge",
+        "desc": "Essential hobby. Sleep is a feature."
+      },
+      {
+        "id": "scrolling",
+        "label": "Scrolling",
+        "desc": "Endless social media scrolling. We all do it."
+      }
+    ]
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "title": "Where I've been",
+    "items": [
+      {
+        "period": "2017 — Present",
+        "title": "Electronics Repair",
+        "desc": "Freelance repair of TVs, radios, monitors, PCs, laptops, and more."
+      },
+      {
+        "period": "2023 — Present",
+        "title": "Self-Directed Learning",
+        "desc": "Deep-diving into headphone amplifiers, homeservers, and custom keyboards."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Get in touch",
+    "intro": "Open to project discussions, collaboration, or just talking shop about amps and electronics."
+  },
+  "footer": {
+    "tagline": "Built with Vue"
+  }
+}
